@@ -17,15 +17,17 @@ Todas enlazan a tu web principal con botones de "Pedir cita".
 | San Fulgencio | Rotura fibrilar | Glassmorphism |
 | San Isidro | Cefalea tensional | Bauhaus |
 
-## Antes de publicar
+## Publicar
 
-```bash
-python3 configurar.py --nombre "Tu Centro" --web "https://tu-web.es" \
-  --telefono "+34 ..." --localidad "Pueblo del centro" --landings "https://donde-publiques.es"
-```
+Ya están rellenados los datos de Recocap Fisioterapia y la dirección
+`https://guias-fisioterapia-vegabaja.netlify.app`.
 
-Después sube la carpeta a cualquier hosting estático (Netlify, GitHub Pages, Cloudflare Pages…)
-y da de alta el `sitemap.xml` en Google Search Console.
+1. Entra en https://app.netlify.com/drop y arrastra el ZIP (o la carpeta) con las páginas.
+2. En el sitio nuevo: *Project configuration → Change project name* → `guias-fisioterapia-vegabaja`.
+3. En Google Search Console, añade el sitio y envía `sitemap.xml`.
+
+Si usas otra dirección, vuelve a ejecutar `configurar.py` con `--landings` nuevo
+(sobre una copia limpia del repositorio, con los marcadores).
 
 ## Notas SEO
 
