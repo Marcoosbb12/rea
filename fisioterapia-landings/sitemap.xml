@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{URL_LANDINGS}}/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-catral-dolor-lumbar/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-cox-dolor-cervical/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-daya-nueva-esguince-tobillo/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-daya-vieja-dolor-rodilla/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-dolores-dolor-hombro/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-formentera-del-segura-fascitis-plantar/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-rafal-codo-tenista/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-redovan-ciatica/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-rojales-tunel-carpiano/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-san-fulgencio-rotura-fibrilar/</loc></url>
+  <url><loc>{{URL_LANDINGS}}/fisioterapia-san-isidro-cefalea-tensional/</loc></url>
+</urlset>
